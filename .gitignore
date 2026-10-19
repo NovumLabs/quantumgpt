@@ -1,0 +1,23 @@
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Model checkpoints and weights
+*.pt
+*.pth
+*.ckpt
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Test and coverage artifacts
+.pytest_cache/
+.coverage
+htmlcov/
