@@ -1,0 +1,8 @@
+# Install with: python -m pip install -r requirements.txt
+# Recommended: Python 3.10 or 3.11. Training performance depends on hardware.
+torch>=2.3
+numpy>=1.24
+datasets>=2.18
+tiktoken>=0.6
+tokenizers>=0.15
+psutil>=5.9
